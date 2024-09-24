@@ -1,6 +1,4 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<br clear="both">
-
 <h1 align="center">Hi 👋, I'm MiR</h1>
 
 <h4 align="left">I am an ISE student with interests in computer vision, low-level programming, back-end development, and cybersecurity.<br>I enjoy tackling complex problems and working on innovative projects in these fields.</h4>
