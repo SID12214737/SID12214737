@@ -27,7 +27,7 @@
   <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" height="40" alt="wireshark logo" />
 </div>
 
-<h4 align="left">Certifications & Networking:</h4>
+<h4 align="left">Certifications:</h4>
 <ul>
   <li>Scientific Computing with Python - <a href="https://www.freecodecamp.org">freeCodeCamp</a></li>
   <li>The Ultimate C++ Series - <a href="https://codewithmosh.com/">Code with Mosh</a></li>
