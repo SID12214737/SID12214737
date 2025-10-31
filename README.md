@@ -35,17 +35,9 @@
   <li>Experience with Wireshark for network analysis and troubleshooting</li>
 </ul>
 
-
-<h4 align="left">Some Projects:</h4>
-<ul>
-  <li>Backend development of an AI-assisted stock trading platform.</li>
-  <li>Obstacle-Avoiding Smart Car for V2X Course.</li>
-  <li>Dynamic traffic control system using computer vision.</li>
-</ul>
 <br clear="both">
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sid12214737&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=sid12214737&locale=en&mode=weekly&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
