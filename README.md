@@ -6,23 +6,21 @@
 <h4 align="left">Skills:</h4>
 <div align="left">
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js" height="40" alt="C/C++, Python, JS logos" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/cplusplus/cplusplus-original.svg" height="40" alt="c++ logo" />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/ubuntu/ubuntu-original.svg" height="50" alt="ubuntu logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ros/ros-original.svg" height="40" alt="ros logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo" />
   <img width="12" />
   <img src="https://www.wireshark.org/assets/icons/wireshark-fin.png" height="40" alt="wireshark logo" />
 </div>
@@ -32,6 +30,7 @@
   <li>Scientific Computing with Python - <a href="https://www.freecodecamp.org">freeCodeCamp</a></li>
   <li>The Ultimate C++ Series - <a href="https://codewithmosh.com/">Code with Mosh</a></li>
   <li>CCNA: Introduction to Networks - <a href="https://www.netacad.com">Cisco Networking Accademy</a></li>
+  <li>DevNet Associate - <a href="https://www.netacad.com">Cisco Networking Accademy</a></li>
   <li>Experience with Wireshark for network analysis and troubleshooting</li>
 </ul>
 
